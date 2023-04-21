@@ -74,6 +74,7 @@
 <div align="center">
   <img src="readme_assets/mock.png" height="auto" width="90%"/>
 </div>
+<br />
 
 This repository houses a well-designed Article Summarizer Web Application built with React & Redux.js using OpenAI's GPT-4 model powered by Rapid API 🤖
 
