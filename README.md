@@ -124,8 +124,6 @@ GPT4-Summarizer-Web/
 
 In order to use this GPT4 Summarizer Webapp you have to add some environment variables to .env file,
 
-##### _client-side_ [/.env]
-
 create `.env` file in root folder & add the following environment variable:
 ```env
 VITE_RAPID_API_KEY=<RAPID_API_KEY>
